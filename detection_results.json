@@ -1,0 +1,338 @@
+{
+  "original_data": {
+    "image_size": [
+      512,
+      512
+    ],
+    "lines": [
+      {
+        "id": 1,
+        "start_point": [
+          394,
+          178
+        ],
+        "end_point": [
+          85,
+          259
+        ],
+        "length": 319.4401352366355,
+        "angle": 165.31121322668162,
+        "confidence": 0.7352844967152274
+      },
+      {
+        "id": 2,
+        "start_point": [
+          88,
+          225
+        ],
+        "end_point": [
+          200,
+          282
+        ],
+        "length": 125.67020331009256,
+        "angle": 26.972843433643742,
+        "confidence": 0.8072098701272836
+      },
+      {
+        "id": 3,
+        "start_point": [
+          160,
+          120
+        ],
+        "end_point": [
+          255,
+          164
+        ],
+        "length": 104.69479452198185,
+        "angle": 24.851585859712173,
+        "confidence": 0.7356643322621589
+      }
+    ],
+    "endpoints": [
+      {
+        "position": [
+          394,
+          178
+        ],
+        "type": "start",
+        "confidence": 0.900501454913598
+      },
+      {
+        "position": [
+          85,
+          259
+        ],
+        "type": "end",
+        "confidence": 0.8282231398426095
+      },
+      {
+        "position": [
+          88,
+          225
+        ],
+        "type": "start",
+        "confidence": 0.8586076998690086
+      },
+      {
+        "position": [
+          200,
+          282
+        ],
+        "type": "end",
+        "confidence": 0.8459133803424423
+      },
+      {
+        "position": [
+          160,
+          120
+        ],
+        "type": "start",
+        "confidence": 0.9273183964428459
+      },
+      {
+        "position": [
+          255,
+          164
+        ],
+        "type": "end",
+        "confidence": 0.840262012463992
+      }
+    ],
+    "metadata": {
+      "generation_method": "synthetic",
+      "num_lines": 3,
+      "num_endpoints": 6
+    }
+  },
+  "detection_results": {
+    "lines": [
+      {
+        "id": 1,
+        "start_point": [
+          395,
+          177
+        ],
+        "end_point": [
+          84,
+          261
+        ],
+        "confidence": 0.6632544417066473,
+        "length": 322.1443775700579,
+        "angle": 164.8852736148306
+      },
+      {
+        "id": 2,
+        "start_point": [
+          87,
+          225
+        ],
+        "end_point": [
+          200,
+          283
+        ],
+        "confidence": 0.8011023681841366,
+        "length": 127.01574705523721,
+        "angle": 27.170265774322804
+      },
+      {
+        "id": 3,
+        "start_point": [
+          161,
+          119
+        ],
+        "end_point": [
+          256,
+          166
+        ],
+        "confidence": 0.7272377221048847,
+        "length": 105.99056561788883,
+        "angle": 26.32329826780989
+      }
+    ],
+    "endpoints": [
+      {
+        "position": [
+          392,
+          177
+        ],
+        "type": "start",
+        "confidence": 0.8409249218262624
+      },
+      {
+        "position": [
+          85,
+          259
+        ],
+        "type": "end",
+        "confidence": 0.7700665761631789
+      },
+      {
+        "position": [
+          87,
+          224
+        ],
+        "type": "start",
+        "confidence": 0.7502963226424209
+      },
+      {
+        "position": [
+          198,
+          281
+        ],
+        "type": "end",
+        "confidence": 0.7843815667009884
+      },
+      {
+        "position": [
+          161,
+          120
+        ],
+        "type": "start",
+        "confidence": 0.9230353887262323
+      },
+      {
+        "position": [
+          255,
+          163
+        ],
+        "type": "end",
+        "confidence": 0.7433490335422364
+      }
+    ],
+    "detection_metadata": {
+      "method": "simulated_cnn",
+      "total_detections": 9
+    }
+  },
+  "optimized_results": {
+    "lines": [
+      {
+        "id": 1,
+        "start_point": [
+          395,
+          177
+        ],
+        "end_point": [
+          84,
+          261
+        ],
+        "confidence": 0.729579885877312,
+        "length": 322.1443775700579,
+        "angle": 164.8852736148306
+      },
+      {
+        "id": 2,
+        "start_point": [
+          87,
+          225
+        ],
+        "end_point": [
+          200,
+          283
+        ],
+        "confidence": 0.8812126050025504,
+        "length": 127.01574705523721,
+        "angle": 27.170265774322804
+      },
+      {
+        "id": 3,
+        "start_point": [
+          161,
+          119
+        ],
+        "end_point": [
+          256,
+          166
+        ],
+        "confidence": 0.7999614943153732,
+        "length": 105.99056561788883,
+        "angle": 26.32329826780989
+      }
+    ],
+    "endpoints": [
+      {
+        "position": [
+          392,
+          177
+        ],
+        "type": "start",
+        "confidence": 0.8829711679175756
+      },
+      {
+        "position": [
+          85,
+          259
+        ],
+        "type": "end",
+        "confidence": 0.8085699049713378
+      },
+      {
+        "position": [
+          87,
+          224
+        ],
+        "type": "start",
+        "confidence": 0.7878111387745419
+      },
+      {
+        "position": [
+          198,
+          281
+        ],
+        "type": "end",
+        "confidence": 0.8236006450360378
+      },
+      {
+        "position": [
+          161,
+          120
+        ],
+        "type": "start",
+        "confidence": 0.95
+      },
+      {
+        "position": [
+          255,
+          163
+        ],
+        "type": "end",
+        "confidence": 0.7805164852193482
+      }
+    ],
+    "optimization_metadata": {
+      "method": "simulated_rl",
+      "optimization_steps": 8,
+      "improvement_rate": 0.22430975161914873
+    }
+  },
+  "analysis": {
+    "original_count": {
+      "lines": 3,
+      "endpoints": 6
+    },
+    "detected_count": {
+      "lines": 3,
+      "endpoints": 6
+    },
+    "optimized_count": {
+      "lines": 3,
+      "endpoints": 6
+    },
+    "avg_line_confidence": 0.8035846617317453,
+    "avg_endpoint_confidence": 0.8389115569864735,
+    "accuracy_metrics": {
+      "line_detection_rate": 1.0,
+      "endpoint_detection_rate": 1.0,
+      "overall_accuracy": 1.0
+    }
+  },
+  "system_info": {
+    "version": "1.0.0",
+    "demo_mode": true,
+    "components": [
+      "CNN检测器",
+      "强化学习优化器",
+      "后处理器"
+    ]
+  }
+}
